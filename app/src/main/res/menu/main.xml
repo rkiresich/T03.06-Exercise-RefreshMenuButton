@@ -5,8 +5,5 @@
         android:id="@+id/action_refresh"
         android:title="@string/reset"
         android:orderInCategory="1"
-        app:showAsAction="ifRoom">
-
-    </item>
-
+        app:showAsAction="ifRoom"/>
 </menu>
